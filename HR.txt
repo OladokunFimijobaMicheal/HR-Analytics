@@ -1,0 +1,3 @@
+1. Are the employees satisfied with the work?
+2. What are the highest performing divisions?
+3. Is employee satisfaction having effect on their performance
